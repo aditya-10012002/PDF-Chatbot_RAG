@@ -1,4 +1,4 @@
-# PDF Chatbot
+# PDF Chatbot with RAG
 ## Overview
 First, we run the ```create_database.py``` which makes the uploaded documents in the Data folder pass through the ```HuggingFaceEmbeddings``` and chunks of data are stored using the ```Chroma``` database in your local.<br>
 <br>
